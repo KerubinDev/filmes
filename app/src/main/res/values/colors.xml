@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <!-- Cores principais do tema -->
+    <color name="primary">#FF6C5CE7</color>
+    <color name="primary_dark">#FF5A4FCF</color>
+    <color name="primary_light">#FFA29BFE</color>
+    
+    <!-- Cores secundárias -->
+    <color name="secondary">#FF74B9FF</color>
+    <color name="secondary_dark">#FF0984E3</color>
+    <color name="secondary_light">#FF81ECF4</color>
+    
+    <!-- Cores terciárias -->
+    <color name="tertiary">#FFE17055</color>
+    <color name="tertiary_dark">#FFD63031</color>
+    <color name="tertiary_light">#FFFD79A8</color>
+    
+    <!-- Cores de fundo -->
+    <color name="background_light">#FFF8F9FA</color>
+    <color name="background_dark">#FF0D1117</color>
+    <color name="surface_light">#FFFFFFFF</color>
+    <color name="surface_dark">#FF161B22</color>
+    
+    <!-- Cores de texto -->
+    <color name="text_light">#FF2D3436</color>
+    <color name="text_dark">#FFF0F6FC</color>
+    <color name="text_secondary_light">#FF636E72</color>
+    <color name="text_secondary_dark">#FFB2BEC3</color>
+    
+    <!-- Cores de acento -->
+    <color name="accent_gold">#FFFFD700</color>
+    <color name="accent_red">#FFE74C3C</color>
+    <color name="accent_green">#FF00B894</color>
+    
+    <!-- Cores de gradiente -->
+    <color name="gradient_start">#FF6C5CE7</color>
+    <color name="gradient_end">#FFA29BFE</color>
+    <color name="gradient_secondary_start">#FF74B9FF</color>
+    <color name="gradient_secondary_end">#FF0984E3</color>
+    
+    <!-- Cores do sistema -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
 </resources>
